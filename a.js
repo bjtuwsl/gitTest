@@ -1,7 +1,7 @@
 
 
 console.log(667)
->>>>>>> dev
+
 console.log(777)
 console.log(800)
 console.log(888)
